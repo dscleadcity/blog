@@ -2,7 +2,7 @@
 
 - - -
 
-## We just moved to Github
+## <span style="color: #3cb371; text-decoration: underline>We just moved to Github</span>
 
 Hello world, we just moved to github. Interested in becoming a technical content developer for the DSC? Send an email across to dsc[AT]lcuofficial[DOT]com[DOT]ng.
 
